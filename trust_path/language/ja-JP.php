@@ -47,6 +47,6 @@ return array(
     "Banned {1}." => "{1}さんを退室させました。",
     "Language" => "使用言語",
     "The language is not in the option." => "選択肢にない言語が選択されました。",
-    "Durarara like chat room" => "デュラララ!!チャットルーム",
-    "Durarara fan community" => "ファンコミュニティ",
+    "Durarara like chat room" => "デュラチャット",
+    "Durarara fan community" => "@開発中",
 );

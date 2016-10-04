@@ -3,13 +3,14 @@
 /**
  * Admin
  */
-define('DURA_ADMIN_NAME', 'admin');
-define('DURA_ADMIN_PASS', 'admin');
+define('DURA_ADMIN_NAME', 'admin_1105');
+define('DURA_ADMIN_PASS', 'admin_1105');
 
 /**
  * URL & Path
  */
-define('DURA_URL', 'http://localhost:8000'); // DO NOT ADD SLASH TO END.
+// define('DURA_URL', 'http://localhost:8000'); // DO NOT ADD SLASH TO END.
+define('DURA_URL', 'http://drrr.hp2.jp'); // DO NOT ADD SLASH TO END.
 define('DURA_PATH', dirname(__FILE__));
 
 /**
