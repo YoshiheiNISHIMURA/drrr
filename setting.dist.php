@@ -3,8 +3,8 @@
 /**
  * Admin
  */
-define('DURA_ADMIN_NAME', 'admin_1105');
-define('DURA_ADMIN_PASS', 'admin_1105');
+define('DURA_ADMIN_NAME', 'admin1105');
+define('DURA_ADMIN_PASS', 'admin1105');
 
 /**
  * URL & Path

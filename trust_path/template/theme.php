@@ -24,8 +24,11 @@ useComet = <?php e(DURA_USE_COMET) ?>;
 <script type="text/javascript" src="<?php e(DURA_URL) ?>/js/jquery.chat.js"></script>
 <?php endif ?>
 <?php if ( file_exists(DURA_TEMPLATE_PATH.'/header.html') ) require(DURA_TEMPLATE_PATH.'/header.html'); ?>
+<meta name="google-site-verification" content="20g-MuxVrV3tloKWinJpgpKEBYQypUKXO0ollhDZ8vw" />
+<meta name="keywords" content="デュラララ!!,デュラララ,チャット,デュラチャ,開発中">
 </head>
 <body>
+<?php include_once("analyticstracking.php") ?>
 <div id="body">
 <?php e($content) ?>
 </div>
